@@ -1,4 +1,4 @@
-import { Task } from "@serenity-js/core";
+import { Task, Wait } from "@serenity-js/core";
 import { Enter } from "@serenity-js/web";
 import { GoogleTranslatePage } from "../../main/ui/GoogleTranslatePage.ts";
 
